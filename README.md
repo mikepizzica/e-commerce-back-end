@@ -25,4 +25,4 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Links
-[Walkthrough video](link)  
+[Walkthrough video](https://drive.google.com/file/d/1826K1y2LTA9b4fHRZ3DAJcYLi9cYftzl/view?usp=sharing)  
